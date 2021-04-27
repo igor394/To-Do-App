@@ -1,5 +1,5 @@
 import './App.css';
-import ListTodo from "./component/ListTodo";
+import ListTodo from "./components/ListTodo";
 
 function App() {
   return (
